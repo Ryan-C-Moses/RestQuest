@@ -1,20 +1,7 @@
 # RestQuest
 Embarking on a quest to learn RESTful APIs.
 
-httpbin
-A service for testing HTTP methods and inspecting requests.
-Base URL:
-plaintext
-Copy code
-https://httpbin.org
-Example Endpoints:
-GET /get – Inspect a GET request.
-POST /post – Inspect a POST request.
-PUT /put – Inspect a PUT request.
-PATCH /patch – Inspect a PATCH request.
-DELETE /delete – Inspect a DELETE request.
-Documentation:
-httpbin Documentation
+https://api.nasa.gov/
 
 JSONPlaceholder
 A popular free API for testing and prototyping.
@@ -36,3 +23,4 @@ https://www.iqair.com/commercial-air-quality-monitors/api
 https://developer.edamam.com/edamam-nutrition-api
 
 https://www.wordsapi.com/
+Word of the Day - https://www.sliderrevolution.com/resources/css-button-hover-effects/
